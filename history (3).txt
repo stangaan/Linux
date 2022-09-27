@@ -1,0 +1,131 @@
+   0 whoami
+   1 pwd
+   2 ls
+   3 ls --help
+   4 clear
+   5 ls -1
+   6 ls -a
+   7 cd
+   8 pwd
+   9 cs ..
+  10 cd /home/
+  11 pwd
+  12 mkdir user1
+  13 ls
+  14 tree /home/
+  15 -p /home/user1/task1/tauch && /home/user2/task2/file1.txt
+  16 -p/home/user1/task1/tauch && /home/user2/task2/file1.txt
+  17 -p/home/user1/task1/tauch &&/home/user2/task2/file1.txt
+  18 -p/home/user1/tauch &&/home/user2/task2/file1.txt
+  19 -p/home/user1/ &&/home/user2/task2/file1.txt
+  20 -p /home/user1/ &&/home/user2/task2/file1.txt
+  21 mkdir -p /home/user1/ &&/home/user2/task2/file1.txt
+  22 mkdir /home/user1/test1.txt
+  23 mkdir -p /home/user1/ /home/user2/task2/
+  24 tree
+  25 tre
+  26 tree
+  27 cp /home/user1/test1.txt /home/user2/task2/
+  28 cp -r /home/user1/test1.txt /home/user2/task2/
+  29 tree
+  30 cp -r home/user1/test1.txt /home/user2/task2/test2
+  31 cp -r /home/user1/test1.txt /home/user2/task2/test2
+  32 tree
+  33 cp -r /home/user1/test1.txt /home/user2/task2/test2.txt
+  34 tree
+  35 rmdir /home/user2/task2/test2
+  36 tree
+  37 history > history2.txt
+  38 tree
+  39 treee
+  40 tree
+  41 rmdir /home/
+  42 tree
+  43 cd
+  44 ls
+  45 cd /home/
+  46 tree
+  47 touch /home/user1/test1.txt
+  48 tree
+  49 ls
+  50 rmdir history2.txt 
+  51 rmdir /home/history2.txt 
+  52 tree
+  53 rmdir -r/home/history2.txt 
+  54 rmdir -p /home/history2.txt 
+  55 cp /home/history2.txt  /home/user1/
+  56 tree
+  57 rmdir /home/history2.txt/
+  58 rmdir /history2.txt
+  59 cd -
+  60 rmdir /home/history2.txt/
+  61 rmdir -p /home/history2.txt 
+  62 rm -f /home/history2.txt 
+  63 tree
+  64 cd /home/
+  65 tree
+  66 rm -f /home/user1/history2.txt 
+  67 tree
+  68 cd --
+  69 history > history.txt
+  70 tree
+  71 hystory > /tmp/hystory.txt
+  72 hystory > /hystory.txt
+  73 export_file/localhost/history.txt
+  74 export_file /localhost/history.txt
+  75 tree
+  76 cd /home
+  77 history > /home/history.txt
+  78 tree
+  79 export_file /home/history.txt 
+  80 history > /home/history1.txt
+  81 export_file /home/history1.txt
+  82 pwd
+  83 tree
+  84 rm -f /home/history
+  85 TREE
+  86 tree
+  87 rm -f /home/history1.txt
+  88 tree
+  89 rm -f /home/history.txt
+  90 tree
+  91 rm -p /home/user1/
+  92 rm -r /home/user1/
+  93 tree
+  94 rm -R /home/user2/
+  95 tree
+  96 cd --
+  97 tree
+  98 wdm
+  99 cd -r
+ 100 cd
+ 101 ls
+ 102 rm -f history.txt
+ 103 ls
+ 104 rm hello.js
+ 105 ls
+ 106 mrdir hous
+ 107 mkdir hous
+ 108 tree
+ 109 mkdir /hous/user1/test1/test.txt
+ 110 mkdir -p /hous/user1/test1/test.txt
+ 111 tree
+ 112 cd+
+ 113 cd ++
+ 114 cd /home/
+ 115 tree
+ 116 cd
+ 117 cd /hous/ueser1/
+ 118 cd
+ 119 tree /home/
+ 120 mkdir /home/user1
+ 121 cd ..
+ 122 cd /home
+ 123 tree
+ 124 mkdir /home/user1/text1.txt
+ 125 tree
+ 126 mkdir /hous/user2/test1/text2.txt
+ 127 mkdir -p /hous/user2/test1/text2.txt
+ 128 tree
+ 129 tree /home
+ 130 history > history.txt
