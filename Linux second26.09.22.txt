@@ -1,0 +1,18 @@
+   0 mkdir /tmp/ev
+   1 mkdir /tmp/evA.txt
+   2 mv /tmp/evA,txt /opt/eve.txt
+   3 mv /tmp/evA.txt /opt/eve.txt
+   4 mkdir /home/
+   5 mkdir /home/humans/
+   6 cd /h
+   7 cd /home/
+   8 tree
+   9 mv /opt/eve.txt/ /home/humans/
+  10 tree
+  11 mkdir /tmp/adam.txt
+  12 cd /tmp
+  13 ls
+  14 tree
+  15 cd ..
+  16 history > /tmp/history.tst
+  17 history > /tmp/history.txt
