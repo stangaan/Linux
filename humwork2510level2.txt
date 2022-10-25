@@ -1,0 +1,14 @@
+   0 vi /tmp/text.txt
+   1 df -h|head -3>> /tmp/text.txt
+   2 chmod g+w,u-r,o+x /tmp/text.txt 
+   3 history> /tmp/history.txt|export_file /tmp/history.txt
+   4 env
+   5 env NAME =Andrei
+   6 env= NAME
+   7 export NAME=Andrei
+   8 export NAME=Nelea
+   9 export VAR=Nelea
+  10 env
+  11 env|head -5|tail -5>>/tmp/text.txt 
+  12 nano
+  13 history> /tmp/history.txt 
