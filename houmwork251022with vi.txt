@@ -1,0 +1,4 @@
+   0 vi /tmp/text.txt
+   1 df -h|head -3>> /tmp/text.txt
+   2 chmod g+w,u-r,o+x /tmp/text.txt 
+   3 history> /tmp/history.txt|export_file /tmp/history.txt
