@@ -1,87 +1,27 @@
-   0 whoami
-   1 pwd
-   2 ls 
-   3 ls --help
-   4 clear
-   5 ls -1
-   6 clear
-   7 ls -l
-   8 ls -a
-   9 cd
-  10 pwd
-  11 cd ..
-  12 ls
-  13 cd /bin
-  14 cd ..
-  15 ls
-  16 cd /b
-  17 cd
-  18  ls
-  19 cd
-  20 ls
-  21  cd
-  22 cd ..
-  23 ls
-  24  cd /bin/
-  25 pwd
-  26  ls
-  27             ls -laa
-  28 clear
-  29 cd 
-  30 cd /home/
-  31 pwd
-  32 mkdir user1
-  33 user1
-  34 mkdir user1
-  35 ls
-  36 cd user1
-  37 mkdir user2
-  38 ls
-  39 cd user2
-  40 hystory
-  41 history
-  42  cd 1
-  43 ls
-  44 cd user2/
-  45 user1/
-  46 touch file1.txt
-  47 ls
-  48 cd ..
-  49 cd
-  50 whomi
-  51 whoami
-  52 cd /home
-  53 ls
-  54 tree
-  55 cd /
-  56 clear
-  57 cd
-  58 mkdir /home/user3/task2
-  59 mkdir --help
-  60 mkdir -p /home/user3/task2
-  61 cd
-  62 clear
-  63 mkdir -p /hame/user3/task3/tauch && /home/user3/task3/file2.txt
-  64 mkdir -p /hame/user2/task2/tauch && 
-  65 tree
-  66 tree /home
-  67 touch /home/user2/task2/file2.txt
-  68 user3/task2/file3.txt
-  69 touch /user3/task2/file3.txt
-  70 cp /houm/user1/user2/file1.txt /home/user3/task2/file3.txt
-  71 cp /houme/user1/user2/file1.txt /home/user3/task2/file3.txt
-  72 tree /home
-  73 cp /home/user1/user2 home/user3
-  74 cp /home/user1 /home/user3/task2
-  75 tree /home
-  76 cp -r /houme/user1/user2/file1.txt /home/user3/task2/file3.txt
-  77 mv /home/u
-  78 mv /home/user2/file1.txt /opt/123.txt
-  79 tree /home
-  80 mv /home/user1/user2/file1.txt /opt/123.txt
-  81 ls/opt/
-  82 ls /opt/
-  83 rmdir /home/user1/user2/file1.txt
-  84 rmdir --help
-  85 rmdir -p /home/user1/user2/
-  86 history > history.txt
+   0 mkdir -p /root/stengauar
+   1 touch /root/stengauar/sleeper.sh
+   2 nano stengauar/sleeper.sh 
+   3 ./stengauar/sleeper.sh 
+   4 chmod u+rwx /root/stengauar/sleeper.sh 
+   5 ./stengauar/sleeper.sh 
+   6 nano stengauar/sleeper.sh 
+   7 ./stengauar/sleeper.sh 
+   8 nano stengauar/sleeper.sh 
+   9 ./stengauar/sleeper.sh 
+  10 echo > #! /bin/bash\for run in {1..10}\do\date +$H.%M.$S.\sleep1
+  11 echo > '#! /bin/bash\for run in {1..10}\do\date +$H.%M.$S.\sleep1'
+  12 nano stengauar/sleeper.sh 
+  13 cat /etc/os-release
+  14 nano stengauar/sleeper.sh 
+  15 chmod 744 stengauar/sleeper.sh 
+  16 nano stengauar/sleeper.sh 
+  17 ./stengauar/sleeper.sh 
+  18 nano stengauar/sleeper.sh 
+  19 ./stengauar/sleeper.sh 
+  20 nano stengauar/sleeper.sh 
+  21 ./stengauar/sleeper.sh 
+  22 cd /root/stengauar/
+  23 ls -l
+  24 history > /root/stengauar/
+  25 history > /stengauar/history.txt
+  26 history > history.txt
